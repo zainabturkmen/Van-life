@@ -21,7 +21,7 @@ import AuthRequired from "./components/AuthRequired"
   
 import "./server"
         
-function App() {         
+function App() {             
   /**
    * Challenge: Create the AuthRequired Layout Route to protect
    * all t  he/host routes.
