@@ -25,7 +25,7 @@ function App() {
   /**
    * Challenge: Create the AuthRequired Layout Route to protect
    * all t  he/host routes.
-   *   
+   *                 
    * For now, just use `const authenticated = false`
    * to determine the aut henticated status of the user, and
    * either send them to the /login route, or render the Outlet  
