@@ -24,7 +24,7 @@ import "./server"
 function App() {        
   /**
    * Challenge: Create the AuthRequired Layout Route to protect
-   * all t  he /host routes.
+   * all t  he  /host routes.
    *   
    * For now, just use `const authenticated = false`
    * to determine the aut henticated status of the user, and
