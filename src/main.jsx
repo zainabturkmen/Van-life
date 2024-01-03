@@ -30,7 +30,7 @@ function App() {
    * to determine the authenticated status of the user, and
    * either send them to the /login route, or render the Outlet
    */  
-
+    
   return (   
     <BrowserRouter>
       <Routes>
