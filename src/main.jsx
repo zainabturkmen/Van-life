@@ -27,7 +27,7 @@ function App() {
    * all the /host routes.
    *   
    * For now, just use `const authenticated = false`
-   * to determine the authenticated status of the user, and
+   * to determine the aut henticated status of the user, and
    * either send them to the /login route, or render the Outlet
    */    
        
