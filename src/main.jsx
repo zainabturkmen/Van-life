@@ -62,7 +62,7 @@ function App() {
         </Route>
       </Routes>
     </BrowserRouter>
-  )
+  )   
 }   
   
 ReactDOM
