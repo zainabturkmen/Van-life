@@ -63,7 +63,7 @@ function App() {
       </Routes>
     </BrowserRouter>
   )
-}
+}   
   
 ReactDOM
   .createRoot(document.getElementById('root'))
