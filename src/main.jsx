@@ -31,7 +31,7 @@ function App() {
    * either send them to the /login route, or render the Outlet
    */
 
-  return (
+  return ( 
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
